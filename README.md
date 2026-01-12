@@ -1,0 +1,2 @@
+# UAS_Wildfire_Segmentation_Data_Augmentation
+Data Augmentation for wildfire segmentation project.
